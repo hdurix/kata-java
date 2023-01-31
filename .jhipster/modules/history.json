@@ -9,5 +9,15 @@
       "endOfLine" : "lf",
       "indentSize" : 2
     }
+  }, {
+    "module" : "maven-java",
+    "date" : "2023-01-31T11:23:32.006560158Z",
+    "properties" : {
+      "packageName" : "com.github.hdurix",
+      "projectName" : "Kata",
+      "baseName" : "kata",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
   } ]
 }
