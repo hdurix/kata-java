@@ -16,7 +16,6 @@ npm install
 
 ## Local environment
 
-
 <!-- jhipster-needle-localEnvironment -->
 
 ## Start up
@@ -24,7 +23,6 @@ npm install
 ```bash
 ./mvnw
 ```
-
 
 <!-- jhipster-needle-startupCommand -->
 
