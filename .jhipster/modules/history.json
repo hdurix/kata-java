@@ -19,5 +19,15 @@
       "endOfLine" : "lf",
       "indentSize" : 2
     }
+  }, {
+    "module" : "prettier",
+    "date" : "2023-01-31T11:23:32.048765929Z",
+    "properties" : {
+      "packageName" : "com.github.hdurix",
+      "projectName" : "Kata",
+      "baseName" : "kata",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
   } ]
 }
