@@ -29,5 +29,15 @@
       "endOfLine" : "lf",
       "indentSize" : 2
     }
+  }, {
+    "module" : "java-base",
+    "date" : "2023-01-31T11:23:32.079442464Z",
+    "properties" : {
+      "packageName" : "com.github.hdurix",
+      "projectName" : "Kata",
+      "baseName" : "kata",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
   } ]
 }
