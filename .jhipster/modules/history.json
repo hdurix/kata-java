@@ -1,0 +1,13 @@
+{
+  "actions" : [ {
+    "module" : "init",
+    "date" : "2023-01-31T11:23:28.710115102Z",
+    "properties" : {
+      "packageName" : "com.github.hdurix",
+      "projectName" : "Kata",
+      "baseName" : "kata",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  } ]
+}
